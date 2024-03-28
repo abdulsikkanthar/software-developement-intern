@@ -1,0 +1,422 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GeeksforGeeks | A computer science portal for geeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+CoursesDSA to DevelopmentCoding for EveryoneFor Working ProfessionalsInterview 101: DSA & System DesignData Science Training ProgramJAVA Backend Development (Live)DevOps Engineering (LIVE)Software Testing & Automation (Live)Data Structures & Algorithms in PythonFor StudentsInterview Preparation CourseData Science (Live)Data Structure & Algorithm-Self Paced (C++/JAVA)Master Competitive Programming (Live)Full Stack Development with React & Node JS (Live)GATE Exam CoursesGATE CS & ITGATE DA & AIGATE Classroom Course (NCR)For School StudentsCBSE Class 12 Computer ScienceSchool GuidePython Programming FoundationAll CoursesTutorialsData Structures & AlgorithmsDSA for BeginnersData StructuresArraysMatrixStringsLinked ListSingly Linked ListDoubly Linked ListCircular Linked ListDoubly Circular Linked ListLinked List TutorialStackQueueTreeGeneric TreeBinary TreeBinary Search TreeAVL TreeB TreeB+ TreeRed Black TreeTree Data Structure TutorialHeapHashingGraphSet Data StructureMap Data StructureAdvanced Data StructureData Structures TutorialAlgorithmsAnalysis of AlgorithmsDesign and Analysis of AlgorithmsAsymptotic AnalysisAsymptotic NotationsWorst, Average and Best CasesSearching AlgorithmsLinear SearchBinary SearchSearching Algorithms TutorialSorting AlgorithmsSelection SortBubble SortInsertion SortMerge SortQuick SortHeap SortCounting SortRadix SortBucket SortSorting Algorithms TutorialGreedy AlgorithmsDynamic ProgrammingGraph AlgorithmsPattern SearchingRecursionBacktrackingDivide and ConquerMathematical AlgorithmsGeometric AlgorithmsBitwise AlgorithmsRandomized AlgorithmsBranch and BoundAlgorithms TutorialComplete DSA TutorialCompetitive ProgrammingCompany Wise SDE SheetsFacebook SDE SheetAmazon SDE SheetApple SDE SheetNetflix SDE SheetGoogle SDE SheetWipro Coding SheetInfosys Coding SheetTCS Coding SheetCognizant Coding SheetHCL Coding SheetDSA Cheat SheetsDSA Sheet for BeginnersSDE SheetsFAANG Coding SheetLove Babbaar SheetMass Recruiter SheetProduct-Based Coding SheetCompany-Wise Preparation Sheet100 Days of CodeTop Interview QuestionsTop 100 DSA Interview Questions Topic-wiseTop 50 Array ProblemsTop 50 String ProblemsTop 50 Stack ProblemsTop 50 Heap ProblemsTop 50 Linked List ProblemsTop 50 Tree ProblemsTop 50 Graph ProblemsTop 50 Problems on Recursion AlgorithmsTop 20 Interview Questions on Greedy AlgorithmsTop 20 Interview Questions on Dynamic ProgrammingTop 50 Problems on Dynamic Programming (DP)Top 20 Interview Questions on HashingInterview Questions on Top 10 AlgorithmsCommonly Asked Data Structure Interview QuestionsDSA BlogsPuzzlesAll PuzzlesTop 100 Puzzles Asked In InterviewsTop 20 Puzzles Commonly Asked During SDE InterviewsTop MCQs on Puzzles with AnswersCrossword Puzzle Of The WeekPythonPython TutorialPython ExercisesPython List ExercisePython String ExercisePython Tuple ExercisePython Dictionary ExercisePython Set ExercisePython QuizPython ProgramsAdvanced Python TutorialPython GUIPython Tkinter TutorialKivy TutorialPython Turtle TutorialPyGame TutorialPython API TutorialPython DatabasePython Database TutorialPython SQLitePython MongoDB TutorialPython JSONPython AutomationPython AutomationPython Web ScrapingPython Requests TutorialSelenium PythonPython Cheat SheetPython ProjectsPython Interview QuestionsML & Data ScienceMachine LearningMachine Learning TutorialMaths for MLMachine Learning with PythonMachine Learning with RML Projects100 Days of Machine LearningData Science using PythonData Science using RData Science PackagesPandas TutorialNumPy TutorialData VisualizationData Visualization with PythonPython Data Visualization TutorialMatplotlib TutorialBokeh TutorialPlotly TutorialSeaborn TutorialData Visualization with RData Visualization with RPlotly Tutorialggplot TutorialData Visualization ToolsTableauPower BIData AnalysisData Analysis with PythonData Analysis with R100 Days of Data AnalyticsDeep LearningDeep Learning TutorialDeep Learning ProjectsNLP TutorialOpenCV TutorialInterview QuestionsMachine Learning Interview QuestionDeep Learning Interview QuestionPython Interview QuestionsTop 50 R Interview QuestionsML FrameworksTensorflowPyTorchPyTorch LightningSystem DesignSystem Design TutorialWhat is System DesignKey Terminologies in System DesignAnalysis and Architecture of SystemsScalability in System DesignDatabases in System DesignHigh Level Design or HLDLow Level Design or LLDCommunication ProtocolsWeb Servers and ProxiesCase Studies in Designing SystemsComplete System Design TutorialSoftware Design PatternsFactory PatternObserver PatternSingleton Design PatternDecorator PatternStrategy PatternAdapter PatternCommand PatternIterator PatternPrototype Design PatternAll Design PatternsSystem Design RoadmapTop 10 System Design Interview Questions and AnswersInterview CornerCompany PreparationTop TopicsPractice Company QuestionsInterview ExperiencesExperienced InterviewsInternship InterviewsCompetitive ProgrammingMultiple Choice QuizzesAptitude for PlacementsLanguagesCC++JavaR TutorialC#SQLScalaPerlGo LanguageWeb DevelopmentHTMLHTML TutorialFree HTML CourseHTML Cheat SheetCSSCSS TutorialFree CSS CourseCSS Cheat SheetCSS Preprocessors (SASS)JavaScriptJavaScript TutorialJavaScript ProgramsJavaScript QuestionsJavaScript Cheat SheetDSA using JavaScriptFree JavaScript CourseJavaScript A to Z Complete GuideTypeScriptReactJSReactJS TutorialFree ReactJS CourseReactJS Cheat SheetReactJS FrameworksNextJSReact BootstrapReact Material UIReact NativeNode.jsNode.js TutorialExpress.jsPHPPHP TutorialFree PHP CoursePHP Programming ExamplesAngularJSAngularJS TutorialAngularJS Cheat SheetAngular PrimeNGAngular ngx BootstrapjQueryjQuery TutorialjQuery Cheat SheetjQuery UICSS Frameworks & LibrariesBootstrapTailwind CSSBulmaPure CSSMaterialize CSSFoundationSemantic UIJS Other Frameworks & LibrariesLodashD3.jsVue.jsUnderscore.jsTensorFlow.jsp5.jsWeb Development Using PythonDjangoGetting started with DjangoCreate an App in DjangoViews In DjangoDjango TemplatesDjango URL patternsDjango Admin InterfaceDjango ModelsMySQL Databased with DjangoDjango CRUDDjango FormsDjango Static FileProjects for BeginnersDjango Interview QuestionsDjango TutorialFlaskWeb Development Using FlaskFlask App RoutingURL building in FlaskFlask TemplatesTemplating With Jinja2 in FlaskFlask ModelDatabase with Flask SQL AlchemyAuthentication with FlaskWTForms in FlaskStatic files in FlaskPython Flask ProjectsFlask Interview QuestionsFrontend ProjectsBuilding a Survey Form using HTML and CSSFood delivery system using HTML and CSSToDo webapp using DjangoBuilding Blog CMSAdd Pagination in DjangoTailwind CSS with DjangoDjango with ReactjsSeleniumPostmanGithubWeb Design100 Days of Web DevelopmentCS SubjectsEngineering MathematicsOperating SystemDBMSComputer NetworksComputer Organization and ArchitectureTheory of ComputationCompiler DesignDigital LogicSoftware EngineeringDevOpsDevOps TutorialGITAWSKubernetesDockerMicrosoft Azure TutorialGoogle Cloud PlatformDevOps RoadmapInterview QuestionsDocker Interview QuestionsAWS Interview QuestionsJenkins Interview QuestionsAnsible Interview QuestionLinuxLinux TutorialLinux Commands A-ZLinux Commands Cheatsheet25 Basic Linux CommandsFile Mangement in LinuxFile Permission Commandschmod Commandchown Commandchgrp Commandunmask CommandLinux System AdministrationLinux File SystemLinux Shell ScriptingLinux NetworkingLinux FirewallLinux Interview QuestionsSchool LearningMathematics (Class 8-12)Number SystemAlgebraLinear AlgebraTrigonometrySet TheoryStatisticsProbabilityGeometryMensurationLogarithmsCalculusMaths Notes (Class 8-12)Class 8 NotesClass 9 NotesClass 10 NotesClass 11 NotesClass 12 NotesMaths Formulas (Class 8 -11)Class 8 FormulasClass 9 FormulasClass 10 FormulasClass 11 FormulasMath CalculatorsMaths Solutions(Class 8-12)NCERT SolutionsClass 8 Maths SolutionClass 9 Maths SolutionClass 10 Maths SolutionClass 11 Maths SolutionClass 12 Maths SolutionRD Sharma SolutionsClass 8 Maths SolutionClass 9 Maths SolutionClass 10 Maths SolutionClass 11 Maths SolutionClass 12 Maths SolutionPhysics Notes (Class 8-12)Class 8 NotesClass 9 NotesClass 10 NotesClass 11 NotesClass 12 NotesChemistry Notes (Class 8-12)Class 8 NotesClass 9 NotesClass 10 NotesClass 11 NotesClass 12 NotesBiology Notes (Class 8-12)Class 8Class 9Class 10Class 11Class 12Science Notes(Class 8-10)Class 8 NotesClass 9 NotesClass 10 NotesSocial Science Notes(Class 7-10)SS Notes (Class 7-10)Class 7 NotesClass 8 NotesClass 9 NotesClass 10 NotesCBSE History Notes (Class 7-10)History Class 7History Class 8History Class 9History Class 10CBSE Geography Notes (Class 7-10)Geo. Class 7Geo. Class 8Geo. Class 9Geo. Class 10CBSE Civics Notes (Class 7-10)Civics Class 7Civics Class 8Civics Class 9Civics Class 10Social Science Syllabus (Class 7-10)Class 7 SS SyllabusClass 8 SS SyllabusClass 9 SS SyllabusClass 10 SS SyllabusEnglish GrammarCBSE Syllabus(Class 8-12)Class 8 SyllabusClass 9 SyllabusClass 10 SyllabusClass 11 SyllabusClass 12 SyllabusCBSE Previous Year PapersMathsPhysicsHistoryGeorgraphyPolitical ScienceEconomicsSchool ProgrammingIIT JEEJEE Main 2024JEE Main Exam PatternJEE Main Exam DateJEE Main Syllabus 2024JEE Maths SyllabusJEE Physics SyllabusJEE Chemistry SyllabusJEE Complete SyllabusJEE Main Admin CardJEE Advanced 2024JEE Advanced Syllabus 2024CommerceBusiness StudiesClass 11th NotesClass 12th NotesBusiness Studies Complete GuideAccountancyClass 11th NotesClass 12th NotesAccountancy Complete GuideMicroeconomicsClass 11th NotesMicroeconomics Complete GuideStatistics for EconomicsClass 11th NotesStatistics for Economics Complete GuideMacroeconomicsClass 12th notesMacroeconomics Complete GuideIndian Economic DevelopmentClass 12th NotesIndian Economic Development Complete GuideHuman Resource Management (HRM)ManagementIncome TaxFinanceCommerce Complete GuideGATEGATE CS/IT Test Series 2024GATE Computer Science NotesLast Minute NotesGATE CS Solved PapersGATE CS Original Papers and Official KeysGATE CS 2024 SyllabusGATE 2024 Important DatesGATE Data Science and AI 2024Other CS ExamsISROISRO CS Original Papers and Official KeysISRO CS Solved PapersISRO CS Syllabus for Scientist/Engineer ExamUGC NETUGC NET CS Notes Paper IIUGC NET CS Notes Paper IIIUGC NET CS Solved PapersUPSC and SSC/BankingBanking Exams Study MaterialRRB Clerk 2023 ExamSBI ClerkSBI Clerk SyllabusGeneral AwarenessEnglishQuantitative AptitudeReasoning AbilitySBI Clerk Practice PapersSBI POSBI PO SyllabusGeneral AwarenessEnglishQuantitative AptitudeReasoning AbilityPrevious Year PapersSBI PO Practice PapersIBPS ClerkIBPS Clerk SyllabusEnglish NotesPrevious Year PapersIBPS POIBPS PO 2022 SyllabusEnglish NotesReasoning NotesPrevious Year PapersMock Question PapersGeneral AwarenessUPSC Study MaterialGeography NotesHistory NotesModern Indian History NotesMedieval Indian History NotesAncient Indian History NotesComplete History NotesScience & Tech. NotesEthics NotesPolity NotesEconomics NotesGovernment Schemes (Updated)UPSC Previous Year PapersSSC CGL Study MaterialSSC CGL SyllabusGeneral StudiesEnglishReasoningSubjectwise Practice PapersPrevious Year PapersGeeksforGeeks VideosData StructuresArraysStringsLinked ListStackQueueTreeSDE SheetPythonJavaC++Data ScienceComputer Science SubjectsJobsGet Hired: Apply for JobsCorporate Hiring SolutionsPracticeAll DSA ProblemsProblem of the DayCompany Wise Coding PracticeAmazonMicrosoftFlipkartExplore AllGfG SDE SheetPractice Problems Difficulty WiseSchoolBasicEasyMediumHardLanguage Wise Coding PracticeCPPJavaPythonCurated DSA ListsBeginner's DSA SheetLove Babbar SheetTop 50 Array ProblemsTop 50 String ProblemsTop 50 DP ProblemsTop 50 Graph ProblemsTop 50 Tree ProblemsContestsJob-A-Thon Hiring ChallengeGet Internship via GfG WeeklyAll Contests and Events 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Saved Videos
+
+
+
+Courses
+
+
+
+
+
+
+Data Structures and Algorithms
+
+DSA Tutorial
+Data Structures Tutorial
+Algorithms Tutorial
+Top 100 DSA Interview Questions
+DSA-Roadmap[Basic-to-Advanced]
+
+
+
+
+
+ML & Data Science
+
+Learn Python
+Data Science Tutorial
+Machine Learning Tutorial
+Deep Learning Tutorial
+NLP Tutorial
+Computer Vision Tutorial
+
+
+
+
+
+Web Development
+
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+ReactJS Tutorial
+NodeJS Tutorial
+
+
+
+
+
+Languages
+
+C
+C++
+Java
+R Tutorial
+Golang
+
+
+
+
+
+Interview Corner
+
+Company Interview Corner
+Experienced Interviews
+Internship Experiences
+Practice Company Questions
+Competitive Programming
+
+
+
+
+
+CS Subjects
+
+Operating Systems
+DBMS
+Computer Networks
+Software Engineering
+Software Testing
+
+
+
+
+
+Jobs
+
+Get Hired: Apply for Jobs
+Job-a-thon: Hiring Challenge
+Corporate Hiring Solutions
+
+
+
+
+
+Practice
+
+All DSA Problems
+Problem of the Day
+GFG SDE Sheet
+Beginner's DSA Sheet
+Love Babbar Sheet
+Top 50 Array Problems
+Top 50 String Problems
+Top 50 DP Problems
+Top 50 Graph Problems
+Top 50 Tree Problems
+
+
+
+
+
+Contests
+
+World Cup Hack-A-Thon
+GFG Weekly Coding Contest
+Job-A-Thon: Hiring Challenge
+BiWizard School Contest
+All Contests and Events
+
+
+
+
+GBlog
+
+
+Puzzles
+
+
+What's New ?
+
+
+
+
+
+
+
+
+
+Change Language 
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+Trending NowDSAWeb TechFoundational CoursesData SciencePractice ProblemPythonMachine LearningJavaScriptSystem DesignDjangoDevOps TutorialJavaC C++ReactJSNodeJSWeb DesignWeb BrowserCP LiveAptitudePuzzlesProjects 
+
+
+
+
+▲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 201305                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CompanyAbout UsLegalCareersIn MediaContact UsAdvertise with usGFG Corporate SolutionPlacement Training ProgramExploreJob-A-Thon Hiring ChallengeHack-A-ThonGfG Weekly ContestOffline Classes (Delhi/NCR)DSA in JAVA/C++Master System DesignMaster CPGeeksforGeeks VideosGeeks CommunityLanguagesPythonJavaC++PHPGoLangSQLR LanguageAndroid TutorialDSAData StructuresAlgorithmsDSA for BeginnersBasic DSA ProblemsDSA RoadmapDSA Interview QuestionsCompetitive ProgrammingData Science & MLData Science With PythonData Science For BeginnerMachine Learning TutorialML MathsData Visualisation TutorialPandas TutorialNumPy TutorialNLP TutorialDeep Learning TutorialWeb TechnologiesHTMLCSSJavaScriptTypeScriptReactJSNextJSNodeJsBootstrapTailwind CSSPython TutorialPython Programming ExamplesDjango TutorialPython ProjectsPython TkinterWeb ScrapingOpenCV TutorialPython Interview QuestionComputer ScienceGATE CS NotesOperating SystemsComputer NetworkDatabase Management SystemSoftware EngineeringDigital Logic DesignEngineering MathsDevOpsGitAWSDockerKubernetesAzureGCPDevOps RoadmapSystem DesignHigh Level DesignLow Level DesignUML DiagramsInterview GuideDesign PatternsOOADSystem Design BootcampInterview QuestionsSchool SubjectsMathematicsPhysicsChemistryBiologySocial ScienceEnglish GrammarCommerceAccountancyBusiness StudiesEconomicsManagementHR ManagementFinanceIncome TaxUPSC Study MaterialPolity NotesGeography NotesHistory NotesScience and Technology NotesEconomy NotesEthics NotesPrevious Year PapersPreparation CornerCompany-Wise Recruitment ProcessResume TemplatesAptitude PreparationPuzzlesCompany-Wise PreparationCompaniesCollegesCompetitive ExamsJEE AdvancedUGC NETSSC CGLSBI POSBI ClerkIBPS POIBPS ClerkMore TutorialsSoftware DevelopmentSoftware TestingProduct ManagementProject ManagementLinuxExcelAll Cheat SheetsFree Online ToolsTyping TestImage EditorCode FormattersCode ConvertersCurrency ConverterRandom Number GeneratorRandom Password GeneratorWrite & EarnWrite an ArticleImprove an ArticlePick Topics to WriteShare your ExperiencesInternships 
+
+
+
+
+
+
+@GeeksforGeeks, Sanchhaya Education Private Limited, All rights reserved
+
+
+
+
+
+
+
+
+
+
+
+        We use cookies to ensure you have the best browsing experience on our website. By using our site, you
+
+        acknowledge that you have read and understood our
+
+        Cookie Policy &
+
+        Privacy Policy
+
+
+
+        Got It !
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
